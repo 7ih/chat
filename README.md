@@ -1,8 +1,3 @@
 # Chat
 
-Web chat created for fun. Created in late 2020.
-
-
-
-
-
+First javascript project, code and website is really bad
